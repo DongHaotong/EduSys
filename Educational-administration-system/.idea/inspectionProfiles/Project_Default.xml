@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="77" name="Java" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="{{d.locked" />
+            <item index="1" class="java.lang.String" itemvalue="0" />
+            <item index="2" class="java.lang.String" itemvalue="?" />
+            <item index="3" class="java.lang.String" itemvalue="lay-filter" />
+            <item index="4" class="java.lang.String" itemvalue="lay-submit" />
+            <item index="5" class="java.lang.String" itemvalue="lay-verify" />
+            <item index="6" class="java.lang.String" itemvalue="{{data.locked" />
+            <item index="7" class="java.lang.String" itemvalue="{{d.complete" />
+            <item index="8" class="java.lang.String" itemvalue="lay-text" />
+            <item index="9" class="java.lang.String" itemvalue="full-125" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="td" />
+            <item index="7" class="java.lang.String" itemvalue="th" />
+            <item index="8" class="java.lang.String" itemvalue="option" />
+            <item index="9" class="java.lang.String" itemvalue="quit_i" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+  </profile>
+</component>

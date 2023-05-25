@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Validatecode.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login2.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registerForm.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/course/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/course" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/course/studentCourseIndex.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/course" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/course/teacherCourseIndex.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/course" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user/basicInformation.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user/form.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/system/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/validatecode.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/validatecode.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
